@@ -15,17 +15,17 @@ Figure_1.txt - phylogenetic tree, an image of which was included as Figure 1 in 
 
 Figure_2.pdf - pdf image of phylogenetic tree which was included as Figure 2 in the main text.
 
-Figure_2.txt - pdf image of phylogenetic tree which was included as Figure 2 in the main text.
+Figure_2.txt - phylogenetic tree, an image of which was included as Figure 2 in the main text
 
 Figure_3.pdf - pdf image of phylogenetic tree which was included as Figure 3 in the main text.
 
-Figure_3.txt - pdf image of phylogenetic tree which was included as Figure 3 in the main text.
+Figure_3.txt - phylogenetic tree, an image of which was included as Figure 3 in the main text
 
 Figure_4.pdf - pdf image of phylogenetic tree which was included as Figure 4 in the main text.
 
-Figure_4.txt - pdf image of phylogenetic tree which was included as Figure 4 in the main text.
+Figure_4.txt - phylogenetic tree, an image of which was included as Figure 4 in the main text
 
 Figure_5.pdf - pdf image of phylogenetic tree which was included as Figure 5 in the main text.
 
-Figure_5.txt - pdf image of phylogenetic tree which was included as Figure 5 in the main text.
+Figure_5.txt - phylogenetic tree, an image of which was included as Figure 5 in the main text
 
