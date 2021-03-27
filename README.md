@@ -1,2 +1,2 @@
 # PartII_Project
-Tables with the accession numbers or run numbers for each strain considered during the course of the project.
+2.txt - accession numbers and BioSample identifiers for the additional 1000 scaffold level assemblies considered in the project
