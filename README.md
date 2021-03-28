@@ -5,27 +5,27 @@ Table_2.xslx - Accession numbers, collection date, logit(%GC), genome size and g
 
 Table_3.txt - Accession numbers and BioSample identifiers for the additional 1000 scaffold level assemblies considered in the project
 
-Figure_15.pdf - pdf image of phylogenetic tree which was included as Figure 15 in the main text.
+Figure_15.pdf - pdf image of the phylogenetic tree which was included as Figure 15 in the main text.
 
 Figure_15.txt - phylogenetic tree, an image of which was included as Figure 15 in the main text
 
-Figure_1.pdf - pdf image of phylogenetic tree which was included as Figure 1 in the main text.
+Figure_1.pdf - pdf image of the phylogenetic tree which was included as Figure 1 in the main text.
 
 Figure_1.txt - phylogenetic tree, an image of which was included as Figure 1 in the main text
 
-Figure_2.pdf - pdf image of phylogenetic tree which was included as Figure 2 in the main text.
+Figure_2.pdf - pdf image of the phylogenetic tree which was included as Figure 2 in the main text.
 
 Figure_2.txt - phylogenetic tree, an image of which was included as Figure 2 in the main text
 
-Figure_3.pdf - pdf image of phylogenetic tree which was included as Figure 3 in the main text.
+Figure_3.pdf - pdf image of the phylogenetic tree which was included as Figure 3 in the main text.
 
 Figure_3.txt - phylogenetic tree, an image of which was included as Figure 3 in the main text
 
-Figure_4.pdf - pdf image of phylogenetic tree which was included as Figure 4 in the main text.
+Figure_4.pdf - pdf image of the phylogenetic tree which was included as Figure 4 in the main text.
 
 Figure_4.txt - phylogenetic tree, an image of which was included as Figure 4 in the main text
 
-Figure_5.pdf - pdf image of phylogenetic tree which was included as Figure 5 in the main text.
+Figure_5.pdf - pdf image of the phylogenetic tree which was included as Figure 5 in the main text.
 
 Figure_5.txt - phylogenetic tree, an image of which was included as Figure 5 in the main text
 
