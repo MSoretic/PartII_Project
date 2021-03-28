@@ -5,6 +5,8 @@ Table_2.xslx - Accession numbers, collection date, logit(%GC), genome size and g
 
 Table_3.txt - Accession numbers and BioSample identifiers for the additional 1000 scaffold level assemblies considered in the project
 
+Table_4.xslx - Average values for %GC content for strains in a cluster, as well as average distances from strains in a cluster to that clusters MRCA.
+
 Figure_15.pdf - pdf image of the phylogenetic tree which was included as Figure 15 in the main text.
 
 Figure_15.txt - phylogenetic tree, an image of which was included as Figure 15 in the main text
